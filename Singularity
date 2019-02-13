@@ -17,6 +17,9 @@ apt-get update
 apt-get -y install  python3 \
                     git \
                     wget
+apt-get install python3-distutils                    
+                    
+                    
 mkdir /data
 mkdir /om
 mkdir /cm
