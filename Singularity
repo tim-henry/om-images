@@ -18,6 +18,8 @@ apt-get -y install  python3 \
                     git \
                     wget
 mkdir /data
+mkdir /om
+mkdir /cm
 
 %test
 echo "Greetings, parental unit"
