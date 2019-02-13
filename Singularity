@@ -16,8 +16,7 @@ export WHERESWALDO
 apt-get update 
 apt-get -y install  python3 \
                     git \
-                    wget
-apt-get install python3-distutils                    
+                    wget                 
                     
                     
 mkdir /data
